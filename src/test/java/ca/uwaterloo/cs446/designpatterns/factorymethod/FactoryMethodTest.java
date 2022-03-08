@@ -1,4 +1,4 @@
-package ca.mcgill.ecse321.designpatterns.factorymethod;
+package ca.uwaterloo.cs446.designpatterns.factorymethod;
 
 import static org.junit.Assert.*;
 
